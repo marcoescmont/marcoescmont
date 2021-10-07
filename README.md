@@ -2,8 +2,8 @@
 <h3>A little bit about myself:</h3>
 
 - 🔭 Proud owner and manager of [Assembly Bros](https://assemblybros.wixsite.com/home)
-- 🌱 I’m currently learning React native and Typescript.
-- 👯 I’m looking to collaborate on new projects that can increase my knowledge on new languages.
+- 🌱 I’m currently learning React Native and Typescript.
+- 👯 I’m looking to collaborate on new projects that can increase my knowledge of new languages.
 - 📫 Reach me out to marcoescmont@gmail.com
 - ⚡ **I love challenges, they expand my knowledge.**
 
