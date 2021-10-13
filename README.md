@@ -1,7 +1,7 @@
 <h1 align="center">Marco Escalona</h1>
 <h3>A little bit about myself:</h3>
 
-- 🔭 Founder and CTO of [Assembly Bros](https://assemblybros.wixsite.com/home)
+- 🔭 Co-Founder and CTO at [Assembly Bros](https://assemblybros.wixsite.com/home)
 - 🌱 I’m currently learning React Native and Typescript.
 - 👯 I’m looking to collaborate on new projects that can increase my knowledge of new languages.
 - 📫 Reach me out to marcoescmont@gmail.com
