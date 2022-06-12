@@ -3,7 +3,7 @@
 
 - 🔭 Co-Founder and CTO at [Assembly Bros](https://assemblybros.wixsite.com/home)
 - 🌱 I’m currently learning React Native and Typescript.
-- 👯 I’m looking to collaborate on new projects that can increase my knowledge of new languages.
+- 👯 I’m looking to collaborate on new projects that can increase my knowledge of new languages and polish my current skills.
 - 📫 Reach me out to marcoescmont@gmail.com
 - ⚡ **Legomaniac who love challenges, they expand my knowledge.**
 
