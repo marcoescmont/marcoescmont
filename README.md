@@ -18,7 +18,7 @@
 
 </br>
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoescmont&theme=merko&show_icons=true)](https://github.com/brcre001/github-readme-stats)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoescmont&theme=merko&show_icons=true)](https://github.com/brcre001/github-readme-stats) <img style="border-radius: 50%" src="https://user-images.githubusercontent.com/81428361/173244431-39899545-33c1-407e-b451-1e1cef81f10a.GIF"/>
 
 
 <!--
