@@ -18,7 +18,7 @@
 
 </br>
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoescmont&theme=merko&show_icons=true)](https://github.com/brcre001/github-readme-stats)<img src="https://user-images.githubusercontent.com/81428361/173243348-69dd4d0a-4fa9-49cc-9a9c-c01c7f91f031.gif"/>![200](https://user-images.githubusercontent.com/81428361/173243562-b6fd4966-b14b-4cf0-babb-e28ef4dbc309.GIF)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoescmont&theme=merko&show_icons=true)](https://github.com/brcre001/github-readme-stats)
 
 
 <!--
